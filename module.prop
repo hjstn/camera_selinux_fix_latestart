@@ -1,0 +1,7 @@
+id=camera_selinux_fix_latestart
+name=Camera SELinux Fix Latestart
+version=v1
+versionCode=1
+author=Justin Hu (justin97530)
+description=Late starting camera SELinux fix so it works on encrypted phones.
+minMagisk=1500
